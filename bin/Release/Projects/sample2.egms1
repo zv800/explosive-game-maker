@@ -1,0 +1,3 @@
+﻿Room_Dimension(640, 320)
+Draw_Sprite("sprBack", 0, 0, 640, 320)
+Lives()
